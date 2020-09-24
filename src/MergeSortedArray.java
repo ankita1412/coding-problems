@@ -21,6 +21,5 @@ public class MergeSortedArray {
 		merge(nums1, 3, nums2, 3);
 		System.out.println(Arrays.toString(nums1));
 		Set<Integer> set = new HashSet<Integer>();
-		set.
 	}
 }
